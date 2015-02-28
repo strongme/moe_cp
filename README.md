@@ -2,6 +2,7 @@
 
 #注册
 >前往[注册](http://do.strongme.cn/siteIndex/view_code.html)账号密码
+>**如果收不到激活邮件，可以去你的垃圾箱看看哦！**
 ![注册](http://strongimg.qiniudn.com/moe_2015-02-12_165839.png)
 #下载客户端
 >前往[下载](http://do.strongme.cn/)客户端
