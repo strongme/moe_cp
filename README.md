@@ -1,19 +1,22 @@
+# Shadowsocks How to
+
+
 #How to use Shadowsocks 番羽土啬 :bowtie:
 
 #注册
->前往[注册](http://do.strongme.cn/siteIndex/view_code.html)账号密码
+>前往[注册](http://fq.strongme.cn/user/register.php)账号密码
 >**如果收不到激活邮件，可以去你的垃圾箱看看哦！**
 ![注册](http://strongimg.qiniudn.com/moe_2015-02-12_165839.png)
 #下载客户端
->前往[下载](http://do.strongme.cn/)客户端
+>前往[下载](http://strongimg.qiniudn.com/shadowsocks_Shadowsocks-win-2.5.6.zip)客户端
 ![下载](http://strongimg.qiniudn.com/moe_2015-02-12_165935.png)
 #配置
->前往[用户](http://do.strongme.cn/user.html)页面查看配置
+>前往[用户](http://fq.strongme.cn/user/)页面查看配置
 注册完毕之后登录，查看配置信息，记录端口，密码,解压客户端，得到shadowsocks.exe文件
 ![配置](http://strongimg.qiniudn.com/moe_2015-02-12_170100.png)
 
 ##具体配置
->- 填写服务器ip为`192.241.233.68`（此ip为固定的）
+>- 填写服务器ip为`fq.strongme.cn`（此域名为固定的）
 - 填写服务器端口（对应登录页面配置信息里的端口）
 - 填写密码（对应登录页面配置信息里的密码）
 
@@ -36,7 +39,10 @@
 ![Chrome2](http://strongimg.qiniudn.com/moe_asas.png)
 
 #完工
->其他设备配置可以自行上网查下，实在不行，可以[前往](http://strongme.cn)留言。
+>其他设备配置可以自行上网查下，实在不行，可以[前往](http://strongme.cn)或者关注微信strongdata留言。
+
+扫描关注微信：
+![关注微信](http://fq.strongme.cn/asset/img/qrcode_for_strongdata.jpg)
 
 
 
